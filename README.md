@@ -8,6 +8,8 @@
 
 此外，非常感谢 [花菜](https://github.com/lihuacai168)。没有 AnotherFasterRunner 就不会有 LunarLink :)
 
+帮助文档：https://lunarlink-doc.vercel.app/
+
 ## 技术栈
 
 - [x]  🎨 Django
